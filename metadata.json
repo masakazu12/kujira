@@ -1,0 +1,6 @@
+{
+  "name": "Grok Bot Copy Desk",
+  "description": "Windows desktop workstation for 5-bot Solana copy-trading (Watcher, Vetter, Sizer, Executor, Guard) with live Chrome browser lane, 8-layer audit, risk sizing, and Telegram command console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
